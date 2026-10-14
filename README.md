@@ -2,6 +2,8 @@
 
 A recreation and remix of Apple's **Stocks** app. Built by a team of two for **Challenge 2 (Recreate and Remix)** at Apple Developer Academy @ BINUS – Bali.
 
+The goal was to rebuild a native iOS app faithfully, then reimagine it with our own ideas.
+
 <p align="center">
   <img src="Screenshots/watchlist.png" width="240" alt="Watchlist">
   &nbsp;
