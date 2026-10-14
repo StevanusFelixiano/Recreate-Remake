@@ -1,0 +1,15 @@
+{
+  "originHash" : "489b93d3ea15fd6be665db07240c4d3bae3499ec7b82185636f79905d26f0e4f",
+  "pins" : [
+    {
+      "identity" : "xcastocksapi",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/alfianlosari/XCAStocksAPI.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "2b2116f70ac12727a8e17918ea3e94fd5687bd0e"
+      }
+    }
+  ],
+  "version" : 3
+}
