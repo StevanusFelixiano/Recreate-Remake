@@ -1,6 +1,6 @@
 # Academy Stocks
 
-A recreation of Apple's **Stocks** app, remixed for the Indonesian market. Built by a team of two for **Challenge 2 (Recreate and Remix)** at Apple Developer Academy @ BINUS – Bali.
+A recreation and remix of Apple's **Stocks** app. Built by a team of two for **Challenge 2 (Recreate and Remix)** at Apple Developer Academy @ BINUS – Bali.
 
 <p align="center">
   <img src="Screenshots/watchlist.png" width="240" alt="Watchlist">
@@ -15,12 +15,11 @@ A recreation of Apple's **Stocks** app, remixed for the Indonesian market. Built
 - **Watchlist:** symbols with sparkline charts, price, and daily change, switchable watchlists, and swipe actions
 - **Stock detail sheet:** interactive price chart with time ranges from 1D to All, plus key stats
 - **Business News:** a scrolling stock ticker, index summary, and news feed
-- **Tab bar** with Watchlist, Discovery, News, and Search, using the iOS 26 tab style
 
 ## Remix
 
-- **Discovery tab** for the Indonesian market
-- **Market switcher** for IHSG, NASDAQ, and S&P 500 with a live index chart
+- **Tab bar navigation:** Apple's Stocks app is a single screen, so we split it into Watchlist, Discovery, News, and Search tabs using the iOS 26 tab style
+- **Discovery tab:** a market overview with a switcher for IHSG, NASDAQ, and S&P 500 and a live index chart
 - **Market mover lists:** Top Gainers, Top Losers, Top Value, Top Volume, Top Frequency, Net Foreign Buy, and Net Foreign Sell
 
 > Market charts use live data from Yahoo Finance. The Discovery lists, News feed, and stock stats currently use sample data.
